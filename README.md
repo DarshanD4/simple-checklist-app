@@ -1,0 +1,1 @@
+this file contains only the main.dart and the pubspec.yaml files and more over if u pull this file to ur workspace it might not run as to the fact that some hidden folders are not allowed to be upoaded to the github file
